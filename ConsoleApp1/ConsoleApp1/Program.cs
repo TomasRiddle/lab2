@@ -16,6 +16,8 @@ namespace ConsoleApp1
             {
                 case '+':
                     A = A + B;
+                case '-':
+                    A = A - B;
                     break;
                 default:
                     break;
